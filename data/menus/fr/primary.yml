@@ -5,4 +5,12 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Cinéma
+  target: "/actualites/cinema/"
+  kind: category
+  children: []
+- title: Publicité
+  target: "/actualites/publicite/"
+  kind: category
+  children: []
 
