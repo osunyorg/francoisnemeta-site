@@ -13,4 +13,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Clip
+  target: "/actualites/clip/"
+  kind: category
+  children: []
 
