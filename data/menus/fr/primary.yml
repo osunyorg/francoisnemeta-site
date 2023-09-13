@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Cinéma
   target: "/actualites/cinema/"
   kind: category
@@ -12,5 +8,9 @@ items:
 - title: Publicité
   target: "/actualites/publicite/"
   kind: category
+  children: []
+- title: À propos
+  target: "/a-propos/"
+  kind: page
   children: []
 
