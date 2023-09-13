@@ -6,3 +6,11 @@ deployment:
   targets:
     - name: "production"
       URL: "s3://b4d9024582a408fc7486e41c6b5667dba2e28c67d040b06740933b9edb0aebeb?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+params:
+  logo:
+    header: "/assets/images/logo-white.svg"
+    footer: "/assets/images/logo-white.svg"
+  breadcrumb:
+    position: none
+  summary:
+    position: hero
