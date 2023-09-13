@@ -15,3 +15,5 @@ params:
     position: none
   summary:
     position: hero
+  posts:
+    date_format: "2006"
