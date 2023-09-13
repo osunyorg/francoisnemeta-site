@@ -5,6 +5,10 @@ items:
   target: "/actualites/cinema/"
   kind: category
   children: []
+- title: Clip
+  target: "/actualites/clip/"
+  kind: category
+  children: []
 - title: Publicité
   target: "/actualites/publicite/"
   kind: category
@@ -12,9 +16,5 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
-  children: []
-- title: Clip
-  target: "/actualites/clip/"
-  kind: category
   children: []
 
