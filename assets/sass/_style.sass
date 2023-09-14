@@ -1,15 +1,19 @@
 body
-    outline: 1px solid $color-text
-    outline-style: double
-    outline-offset: -20px
-    outline-width: 6px
-
-#document-header.is-sticky
-    nav
-        background-color: $color-text
-        color: #FFFFFF
-        .logo
-            filter: brightness(0) invert(1)
+    &::before
+        border: 10px solid $color-background
+        outline-color: $color-accent
+        outline-offset: -10px
+        outline-style: double
+        outline-width: 5px
+        content: ""
+        display: block
+        position: fixed
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        z-index: 100
+        pointer-events: none
     
 header#document-header
     nav
@@ -20,9 +24,14 @@ header#document-header
                 margin-bottom: $spacing2
     .menu 
         .nav-level-1 
+            border-top: 1px solid $color-accent
+            border-bottom: 1px solid $color-accent
             > li
+                text-align: center
                 a,
                 span
+                    text-transform: uppercase
+                    letter-spacing: 0.2rem
                     padding: $spacing0
 .hero
     .content 
@@ -34,10 +43,20 @@ header#document-header
             display: none
 
 .post-infos
+    background: $color-accent
+    *
+        color: #FFFFFF !important
+        border-color: rgba(255, 255, 255, 0.3) !important
+    > li
+        padding-left: $spacing1
+        padding-right: $spacing1
     .reading-time
         display: none
+.posts-navigation
+    border-top: none
 
-footer#document-footer 
+footer#document-footer
+    margin-top: $spacing4
     .container
         justify-content: center
         text-align: center

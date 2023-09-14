@@ -1,0 +1,5 @@
+categories:
+  no_post: Aucun film dans cette catégorie
+  see_more:
+    one: Voir le film
+    other: Voir les {{ .Count }} films
