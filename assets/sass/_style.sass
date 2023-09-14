@@ -14,10 +14,10 @@ body
         bottom: 0
         z-index: 100
         pointer-events: none
-    *
-        text-transform: uppercase
     
 header#document-header
+    *
+        text-transform: uppercase
     nav
         .container
             flex-direction: column
@@ -39,6 +39,7 @@ header#document-header
     .content 
         h1, 
         hgroup
+            text-transform: uppercase
             text-align: center
             width: 100%
         figure
@@ -54,6 +55,8 @@ header#document-header
         padding-right: $spacing1
     .reading-time
         display: none
+.post-sidebar
+    margin-bottom: $spacing1
 .posts-navigation
     border-top: none
 
