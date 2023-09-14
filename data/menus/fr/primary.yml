@@ -9,4 +9,8 @@ items:
   target: "/films/fiction/"
   kind: category
   children: []
+- title: Documentaire
+  target: "/films/documentaire/"
+  kind: category
+  children: []
 
