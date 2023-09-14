@@ -8,3 +8,5 @@ fr:
   permalinks:
     categories: /films/:slug/
     posts: /films/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/films/

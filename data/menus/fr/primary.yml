@@ -1,8 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Cinéma
-  target: "/films/cinema/"
+- title: Fiction
+  target: "/films/fiction/"
+  kind: category
+  children: []
+- title: Documentaire
+  target: "/films/documentaire/"
   kind: category
   children: []
 - title: Clip
