@@ -2,15 +2,15 @@
 title: Menu principal
 items:
 - title: Cinéma
-  target: "/actualites/cinema/"
+  target: "/films/cinema/"
   kind: category
   children: []
 - title: Clip
-  target: "/actualites/clip/"
+  target: "/films/clip/"
   kind: category
   children: []
 - title: Publicité
-  target: "/actualites/publicite/"
+  target: "/films/publicite/"
   kind: category
   children: []
 - title: À propos
