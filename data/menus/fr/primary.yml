@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Clip
-  target: "/films/clip/"
-  kind: category
-  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
