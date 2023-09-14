@@ -5,4 +5,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Fiction
+  target: "/films/fiction/"
+  kind: category
+  children: []
 
