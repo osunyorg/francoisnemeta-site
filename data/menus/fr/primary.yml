@@ -13,4 +13,8 @@ items:
   target: "/films/documentaire/"
   kind: category
   children: []
+- title: Clip
+  target: "/films/clip/"
+  kind: category
+  children: []
 
