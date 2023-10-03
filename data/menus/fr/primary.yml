@@ -13,7 +13,7 @@ items:
   target: "/films/clip/"
   kind: category
   children: []
-- title: Publicité
+- title: Commercials
   target: "/films/publicite/"
   kind: category
   children: []
