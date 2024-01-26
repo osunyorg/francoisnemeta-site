@@ -17,7 +17,7 @@ items:
   target: "/films/publicite/"
   kind: category
   children: []
-- title: About
+- title: Contact
   target: "/about/"
   kind: page
   children: []
