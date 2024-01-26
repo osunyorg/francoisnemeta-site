@@ -9,7 +9,7 @@ items:
   target: "/films/documentary/"
   kind: category
   children: []
-- title: Music
+- title: Clip
   target: "/films/clip/"
   kind: category
   children: []
