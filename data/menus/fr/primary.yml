@@ -13,7 +13,7 @@ items:
   target: "/films/clip/"
   kind: category
   children: []
-- title: Content
+- title: PUB
   target: "/films/publicite/"
   kind: category
   children: []
