@@ -5,6 +5,10 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      instagram: >-
+        https://www.instagram.com/francoisnemeta/
   permalinks:
     posts: /films/:year-:month-:day-:slug/
     posts_categories: /films/:slug/
