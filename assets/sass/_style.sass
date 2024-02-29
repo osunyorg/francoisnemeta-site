@@ -22,8 +22,8 @@ header#document-header
         .container
             flex-direction: column
             .logo
-                margin-top: $spacing1
-                margin-bottom: $spacing2
+                margin-top: $spacing-3
+                margin-bottom: $spacing-4
     .menu 
         .nav-level-1 
             border-top: 1px solid $color-accent
@@ -34,14 +34,15 @@ header#document-header
                 span
                     text-transform: uppercase
                     letter-spacing: 0.2rem
-                    padding: $spacing0
+                    padding: $spacing-2
 .hero
-    .content 
-        h1, 
-        hgroup
-            text-transform: uppercase
-            text-align: center
+    .content
+        .hero-text 
             width: 100%
+            h1, 
+            hgroup
+                text-transform: uppercase
+                text-align: center
         figure
             display: none
 
@@ -51,17 +52,17 @@ header#document-header
         color: #FFFFFF !important
         border-color: rgba(255, 255, 255, 0.3) !important
     > li
-        padding-left: $spacing1
-        padding-right: $spacing1
+        padding-left: $spacing-3
+        padding-right: $spacing-3
     .reading-time
         display: none
 .post-sidebar
-    margin-bottom: $spacing1
+    margin-bottom: $spacing-3
 .posts-navigation
     border-top: none
 
 footer#document-footer
-    margin-top: $spacing4
+    margin-top: $spacing-6
     .container:first-of-type
         justify-content: center
     //     text-align: center
