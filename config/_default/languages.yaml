@@ -14,7 +14,7 @@ fr:
     posts: /films/:year-:month-:day-:slug/
     posts_categories: /films/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/films/
   taxonomies:
     administrator: administrators
