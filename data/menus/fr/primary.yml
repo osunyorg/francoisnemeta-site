@@ -4,30 +4,35 @@ items:
 - title: Fiction
   target: "/films/fiction/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/fiction"
   file: content/fr/posts_categories/fiction/_index.html
 - title: Documentaire
   target: "/films/documentary/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/documentary"
   file: content/fr/posts_categories/documentary/_index.html
 - title: Clip
   target: "/films/clip/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/clip"
   file: content/fr/posts_categories/clip/_index.html
 - title: PUB
   target: "/films/publicite/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/publicite"
   file: content/fr/posts_categories/publicite/_index.html
 - title: Contact
   target: "/about/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/about"
   file: content/fr/pages/about/_index.html
