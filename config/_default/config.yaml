@@ -13,3 +13,5 @@ params:
     date_format: "2006"
     index:
       layout: grid
+      options: 
+        categories: false
