@@ -11,3 +11,5 @@ params:
     position: hero
   posts:
     date_format: "2006"
+    index:
+      layout: grid
