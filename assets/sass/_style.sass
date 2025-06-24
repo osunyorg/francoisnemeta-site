@@ -20,21 +20,16 @@ header#document-header
         text-transform: uppercase
     nav
         .container
-            flex-direction: column
-            .logo
-                margin-top: $spacing-3
-                margin-bottom: $spacing-4
+            @include media-breakpoint-up(desktop)
+                .logo
+                    padding-top: $spacing-3
     .menu 
         .nav-level-1 
-            border-top: 1px solid $color-accent
-            border-bottom: 1px solid $color-accent
             > li
-                text-align: center
                 a,
                 span
                     text-transform: uppercase
                     letter-spacing: 0.2rem
-                    padding: $spacing-2
 .hero
     .content
         .hero-text 
@@ -48,6 +43,8 @@ header#document-header
 
 .post-infos
     background: $color-accent
+    padding-bottom: $spacing-1
+    padding-top: $spacing-2
     *
         color: #FFFFFF !important
         border-color: rgba(255, 255, 255, 0.3) !important
