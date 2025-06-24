@@ -2,6 +2,9 @@ theme: osuny
 _merge: deep
 params:
   plausible: francoisnemeta.fr
+  home:
+    head:
+      title: site
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/logo.svg"
