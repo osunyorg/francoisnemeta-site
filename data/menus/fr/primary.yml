@@ -1,28 +1,28 @@
 ---
 title: Menu principal
 items:
-- title: Fiction
+- title: Fictions
   target: "/films/fiction/"
   kind: category
   new_tab: false
   children: []
   path: "/posts_categories/fiction"
   file: content/fr/posts_categories/fiction/_index.html
-- title: Documentaire
+- title: Documentaires
   target: "/films/documentary/"
   kind: category
   new_tab: false
   children: []
   path: "/posts_categories/documentary"
   file: content/fr/posts_categories/documentary/_index.html
-- title: Clip
+- title: Clips
   target: "/films/clip/"
   kind: category
   new_tab: false
   children: []
   path: "/posts_categories/clip"
   file: content/fr/posts_categories/clip/_index.html
-- title: PUB
+- title: Pubs
   target: "/films/publicite/"
   kind: category
   new_tab: false
