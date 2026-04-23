@@ -13,3 +13,92 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/films/2019-11-01-papa-legba/"
+to = "/films/2019-11-15-papa-legba/"
+
+[[redirects]]
+from = "/francois-nemeta/"
+to = "/equipe/francois-nemeta/"
+
+[[redirects]]
+from = "/films/documentaire/"
+to = "/films/documentary/"
+
+[[redirects]]
+from = "/films/2023-10-24-in-bed-with-michel-gondry/"
+to = "/films/2024-09-04-in-bed-with-michel-gondry/"
+
+[[redirects]]
+from = "/films/2023-09-15-bonjour-marie/"
+to = "/films/2022-04-01-bonjour-marie/"
+
+[[redirects]]
+from = "/films/2024-09-04-michel-gondry-do-it-yourself-1/"
+to = "/films/2024-09-04-michel-gondry-do-it-yourself/"
+
+[[redirects]]
+from = "/films/2023-09-14-heineken-vietnam/"
+to = "/films/2016-06-01-heineken-vietnam/"
+
+[[redirects]]
+from = "/actualites/clip/"
+to = "/films/clip/"
+
+[[redirects]]
+from = "/films/2022-01-01-the-cc-motel-heights/"
+to = "/films/2022-09-01-the-cc-motel-heights/"
+
+[[redirects]]
+from = "/films/2023-09-18-histoire-plaquee/"
+to = "/films/2020-10-01-histoire-plaquee/"
+
+[[redirects]]
+from = "/films/2014-09-01-patins/"
+to = "/films/2014-12-01-patins/"
+
+[[redirects]]
+from = "/films/2023-09-18-misread/"
+to = "/films/2006-06-01-misread/"
+
+[[redirects]]
+from = "/actualites/2017-01-01-modjo-lady-clip/"
+to = "/films/2000-09-01-modjo-lady-clip/"
+
+[[redirects]]
+from = "/films/2024-09-20-in-bed-with-michel-gondry/"
+to = "/films/2024-09-04-in-bed-with-michel-gondry/"
+
+[[redirects]]
+from = "/films/2017-01-01-modjo-lady-clip/"
+to = "/films/2000-09-01-modjo-lady-clip/"
+
+[[redirects]]
+from = "/films/2010-10-01-life-at-six-degrees/"
+to = "/films/2010-03-01-life-at-six-degrees/"
+
+[[redirects]]
+from = "/films/2023-09-20-dacia-sandero/"
+to = "/films/2017-03-01-dacia-sandero/"
+
+[[redirects]]
+from = "/films/2023-09-19-boat-behind/"
+to = "/films/2009-09-01-boat-behind/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/films/"
+
+[[redirects]]
+from = "/actualites/2022-01-01-the-cc-motel-heights/"
+to = "/films/2022-09-01-the-cc-motel-heights/"
+
+[[redirects]]
+from = "/francois-nemeta/films/"
+to = "/equipe/francois-nemeta/films/"
+
+[[redirects]]
+from = "/a-propos/"
+to = "/about/"
+
