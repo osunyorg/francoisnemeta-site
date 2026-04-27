@@ -13,3 +13,92 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/films/2019-11-01-papa-legba/index.html"
+to = "/films/2019-11-15-papa-legba/"
+
+[[redirects]]
+from = "/francois-nemeta/index.html"
+to = "/equipe/francois-nemeta/"
+
+[[redirects]]
+from = "/films/documentaire/index.html"
+to = "/films/documentary/"
+
+[[redirects]]
+from = "/films/2023-10-24-in-bed-with-michel-gondry/index.html"
+to = "/films/2024-09-04-in-bed-with-michel-gondry/"
+
+[[redirects]]
+from = "/films/2023-09-15-bonjour-marie/index.html"
+to = "/films/2022-04-01-bonjour-marie/"
+
+[[redirects]]
+from = "/films/2024-09-04-michel-gondry-do-it-yourself-1/index.html"
+to = "/films/2024-09-04-michel-gondry-do-it-yourself/"
+
+[[redirects]]
+from = "/films/2023-09-14-heineken-vietnam/index.html"
+to = "/films/2016-06-01-heineken-vietnam/"
+
+[[redirects]]
+from = "/actualites/clip/index.html"
+to = "/films/clip/"
+
+[[redirects]]
+from = "/films/2022-01-01-the-cc-motel-heights/index.html"
+to = "/films/2022-09-01-the-cc-motel-heights/"
+
+[[redirects]]
+from = "/films/2023-09-18-histoire-plaquee/index.html"
+to = "/films/2020-10-01-histoire-plaquee/"
+
+[[redirects]]
+from = "/films/2014-09-01-patins/index.html"
+to = "/films/2014-12-01-patins/"
+
+[[redirects]]
+from = "/films/2023-09-18-misread/index.html"
+to = "/films/2006-06-01-misread/"
+
+[[redirects]]
+from = "/actualites/2017-01-01-modjo-lady-clip/index.html"
+to = "/films/2000-09-01-modjo-lady-clip/"
+
+[[redirects]]
+from = "/films/2024-09-20-in-bed-with-michel-gondry/index.html"
+to = "/films/2024-09-04-in-bed-with-michel-gondry/"
+
+[[redirects]]
+from = "/films/2017-01-01-modjo-lady-clip/index.html"
+to = "/films/2000-09-01-modjo-lady-clip/"
+
+[[redirects]]
+from = "/films/2010-10-01-life-at-six-degrees/index.html"
+to = "/films/2010-03-01-life-at-six-degrees/"
+
+[[redirects]]
+from = "/films/2023-09-20-dacia-sandero/index.html"
+to = "/films/2017-03-01-dacia-sandero/"
+
+[[redirects]]
+from = "/films/2023-09-19-boat-behind/index.html"
+to = "/films/2009-09-01-boat-behind/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/films/"
+
+[[redirects]]
+from = "/actualites/2022-01-01-the-cc-motel-heights/index.html"
+to = "/films/2022-09-01-the-cc-motel-heights/"
+
+[[redirects]]
+from = "/francois-nemeta/films/index.html"
+to = "/equipe/francois-nemeta/films/"
+
+[[redirects]]
+from = "/a-propos/index.html"
+to = "/about/"
+
