@@ -14,6 +14,10 @@ params:
     position: hero
   posts:
     date_format: "2006"
+    single:
+      meta:
+        options:
+          updated_at: false
     index:
       layout: grid
       options: 
