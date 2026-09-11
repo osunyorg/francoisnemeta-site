@@ -3,3 +3,7 @@ categories:
   see_more:
     one: Voir le film
     other: Voir les {{ .Count }} films
+posts:
+  next: Film suivant
+  none: Aucun film publié
+  previous: Film précédent

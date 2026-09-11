@@ -1,4 +1,6 @@
-theme: osuny
+theme: 
+  - osuny
+  - osuny-plugin-centered-layout
 _merge: deep
 params:
   plausible: francoisnemeta.fr

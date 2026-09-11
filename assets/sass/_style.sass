@@ -63,12 +63,22 @@ header#document-header
     margin-bottom: $spacing-3
 .posts-navigation
     border-top: none
-
+.posts__page
+    .meta-container
+        display: none
 .page__home
     .hero
         min-height: auto !important
         .container
             display: none
+.posts-navigation,
+.siblings-navigation
+    border-top: none
+    @include media-breakpoint-up(desktop)
+        .previous
+            padding-left: offset(2)
+        .next
+            padding-right: offset(2)
 footer#document-footer
     margin-top: $spacing-6
     .container:first-of-type
